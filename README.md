@@ -1,5 +1,7 @@
 # 简单的分屏 Demo
 一个基于自动约束的分屏 Demo 支持竖屏上下分屏, 和横平左右分屏的自动切换。
+Preview
+===============
 
 - ![程序截图](/Simulator Screen Shot 2016年5月26日 上午1.25.46.png)
 - ![程序截图](/Simulator Screen Shot 2016年5月26日 上午1.25.49.png)
